@@ -197,7 +197,7 @@ span {
 /*carousel section*/
 
 .hero {
-    background: url(/images/hero_carousel/carousel1.jpg);
+    background: url(../images/hero_carousel/carousel1.jpg);
     background-size: cover;
     height: 500px;
     
