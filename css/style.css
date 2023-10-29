@@ -24,7 +24,7 @@ body {
 }
 
 .logo {
-    background: url(/images/logo/amazon_logo.png);
+    background: url(../images/logo/amazon_logo.png);
     background-size: cover;
     height: 50px;
 }
@@ -223,7 +223,7 @@ span {
 }
 
 .box {
-    height: 420px;
+    height: 100%;
     width: 20%;
     background-color: #FFFFFF;
     padding: 15px 20px;
@@ -424,7 +424,7 @@ span {
     padding:10px 20px;
     margin: 5px 10px;
     background-color: #FFFFFF;
-    background: url(/images/giftcardimg/giftcard.jpg);
+    background: url(../images/giftcardimg/giftcard.jpg);
     background-size: cover;
 }
 
